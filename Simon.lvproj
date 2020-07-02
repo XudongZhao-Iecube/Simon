@@ -36,6 +36,7 @@
 		<Item Name="GetRandomData.vi" Type="VI" URL="../GetRandomData.vi"/>
 		<Item Name="isEqualOfDisplay.vi" Type="VI" URL="../isEqualOfDisplay.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Menu1.rtm" Type="Document" URL="../Menu/Menu1.rtm"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Array of VData to VArray__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array of VData to VArray__ogtk.vi"/>
