@@ -22,6 +22,10 @@
 		<Item Name="RankingList" Type="Folder" URL="../RankingList">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="RankList" Type="Folder">
+			<Item Name="Array2ini.vi" Type="VI" URL="../RankList/Array2ini.vi"/>
+			<Item Name="Ini2Array.vi" Type="VI" URL="../RankList/Ini2Array.vi"/>
+		</Item>
 		<Item Name="ToolBox" Type="Folder" URL="../ToolBox">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
