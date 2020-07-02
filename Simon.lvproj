@@ -15,6 +15,8 @@
 		</Item>
 		<Item Name="Control" Type="Folder">
 			<Item Name="DegreeOfDifficulty.ctl" Type="VI" URL="../ctl/DegreeOfDifficulty.ctl"/>
+			<Item Name="Display.ctl" Type="VI" URL="../../../../../../WorkSpace/LabVIEW/Simon - ActiveX - Version - 0.5/Control/Display.ctl"/>
+			<Item Name="InfoOfPlayer.ctl" Type="VI" URL="../../../../../../WorkSpace/LabVIEW/Simon - ActiveX - Version - 0.5/Control/InfoOfPlayer.ctl"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="依赖关系" Type="Dependencies"/>
