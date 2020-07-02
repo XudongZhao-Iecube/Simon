@@ -17,6 +17,7 @@
 			<Item Name="DegreeOfDifficulty.ctl" Type="VI" URL="../ctl/DegreeOfDifficulty.ctl"/>
 			<Item Name="Display.ctl" Type="VI" URL="../../../../../../WorkSpace/LabVIEW/Simon - ActiveX - Version - 0.5/Control/Display.ctl"/>
 			<Item Name="InfoOfPlayer.ctl" Type="VI" URL="../ctl/InfoOfPlayer.ctl"/>
+			<Item Name="簇-启动界面配置信息.ctl" Type="VI" URL="../ctl/簇-启动界面配置信息.ctl"/>
 		</Item>
 		<Item Name="RankingList" Type="Folder" URL="../RankingList">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
@@ -27,6 +28,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="Bit-array To Byte-array.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Bit-array To Byte-array.vi"/>
 				<Item Name="Built App File Layout.vi" Type="VI" URL="/&lt;vilib&gt;/AppBuilder/Built App File Layout.vi"/>
 				<Item Name="Calc Long Word Padded Width.vi" Type="VI" URL="/&lt;vilib&gt;/picture/bmp.llb/Calc Long Word Padded Width.vi"/>
