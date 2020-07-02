@@ -27,6 +27,9 @@
 			<Item Name="Ini2Array.vi" Type="VI" URL="../RankList/Ini2Array.vi"/>
 			<Item Name="SortRank&amp;place.vi" Type="VI" URL="../RankList/SortRank&amp;place.vi"/>
 		</Item>
+		<Item Name="Test" Type="Folder">
+			<Item Name="测试数组截取.vi" Type="VI" URL="../Test/测试数组截取.vi"/>
+		</Item>
 		<Item Name="ToolBox" Type="Folder" URL="../ToolBox">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
