@@ -15,7 +15,7 @@
 		</Item>
 		<Item Name="Control" Type="Folder">
 			<Item Name="DegreeOfDifficulty.ctl" Type="VI" URL="../ctl/DegreeOfDifficulty.ctl"/>
-			<Item Name="Display.ctl" Type="VI" URL="../../../../../../WorkSpace/LabVIEW/Simon - ActiveX - Version - 0.5/Control/Display.ctl"/>
+			<Item Name="Display.ctl" Type="VI" URL="../ctl/Display.ctl"/>
 			<Item Name="InfoOfPlayer.ctl" Type="VI" URL="../ctl/InfoOfPlayer.ctl"/>
 			<Item Name="簇-启动界面配置信息.ctl" Type="VI" URL="../ctl/簇-启动界面配置信息.ctl"/>
 		</Item>
@@ -25,6 +25,8 @@
 		<Item Name="ToolBox" Type="Folder" URL="../ToolBox">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="GetRandomData.vi" Type="VI" URL="../GetRandomData.vi"/>
+		<Item Name="isEqualOfDisplay.vi" Type="VI" URL="../isEqualOfDisplay.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
